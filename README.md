@@ -73,6 +73,7 @@ El resultado debe coincidir con el SHA-256 publicado en las notas de cada versi�
 | Interruptor (switch) | 1 | En GND de la batería: permite cargar sin encender el ESP32 |
 | Botón pulsador | 1 | |
 | LED | 1 | Indicador de estado |
+| Conector mágnetico | par | carga mágnetica |
 
 > Esta versión **no usa tarjeta SD**.
 
