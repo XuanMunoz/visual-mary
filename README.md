@@ -1,4 +1,4 @@
-# 👓 Visual Mary — by Arraariatu
+# 👓 Vision Mary — by Arraariatu
 
 Gafas asistivas basadas en **ESP32-S3** que describen lo que ves, responden preguntas sobre tu entorno y guardan fotos de lo que consideras bello.
 
